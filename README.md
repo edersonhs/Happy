@@ -4,8 +4,7 @@ O projeto Happy é uma forma de poder encontrar locais de adoção que aceitem v
 
 # Happy
 
-![](public/images/Happy-login.PNG)
-
+![](https://github.com/edersonhs/Happy/blob/main/public/images/Happy-login.png?raw=true)
 
 *Tecnologias usadas* 💻
 
